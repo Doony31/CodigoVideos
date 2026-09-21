@@ -1,6 +1,6 @@
 # Pilas en C++ desde cero: Stack, LIFO, push y pop explicados fácil
 
-Código del video de YouTube: **[Pilas en C++ desde cero](URL_DEL_VIDEO)**
+Código del video de YouTube: **[Pilas en C++ desde cero](https://youtu.be/IyKOsSD6yCc)**
 
 Una pila (stack) es una estructura de datos LIFO (Last In, First Out):
 el último elemento en entrar es el primero en salir. Esta implementación
