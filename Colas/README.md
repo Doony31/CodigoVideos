@@ -1,6 +1,6 @@
 # Cómo Funcionan las Colas (Queue) en C++ | Estructura de Datos Explicada
 
-Código del video de YouTube: **[Colas en C++ desde cero](URL_DEL_VIDEO)**
+Código del video de YouTube: **[Colas en C++ desde cero](https://youtu.be/WC1Deyo4vnk)**
 
 Una cola (queue) es una estructura de datos FIFO (First In, First Out):
 el primer elemento en entrar es el primero en salir. Esta implementación
