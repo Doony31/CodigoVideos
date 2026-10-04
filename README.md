@@ -6,6 +6,7 @@ Código fuente de mis videos de programación en C++ (estructuras de datos, punt
 
 | Carpeta | Video | Tema |
 |---------|-------|------|
+| [Colas](Pilas/) | [Colas en C++ desde cero: Queue, FIFO, enqueue y dequeue](https://youtu.be/WC1Deyo4vnk) | Cola con nodos y punteros |
 | [Pilas](Pilas/) | [Pilas en C++ desde cero: Stack, LIFO, push y pop](URL) | Pila con nodos y punteros |
 | [ListasEnlazadas](ListasEnlazadas/) | ([Listas Enlazadas Simples en C++](https://youtu.be/-8WIBEmiMEY?si=G0Is-DggMKG7J807)) | Lista enlazada simple |
 | [Mapas](Mapas/) | [Crear mapas y escenarios en videojuegos con C++]([URL](https://youtu.be/-563HaYKHYc?si=it0EH7FYK7h8Bv-M)) | Mapas y escenarios |
