@@ -36,7 +36,7 @@ cola.encolar(20);
 cola.consultarFrente(); // 10
 cola.desencolar();
 cola.consultarFrente(); // 20
-
+```
 
 ## Videos relacionados
 
